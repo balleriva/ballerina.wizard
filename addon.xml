@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.program.ballerina" name="[COLOR mediumspringgreen]Ballerina Wizard[/COLOR]" version="1.0.0" provider-name="[COLOR mediumspringgreen]balleriva[/COLOR]">
+	<requires>
+		<import addon="xbmc.python" version="3.0.0"/>
+	</requires>
+	<extension point="xbmc.python.pluginsource" library="addon.py">
+		<provides>executable</provides>
+	</extension>
+	<extension point="xbmc.service" library="service.py" />
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en_GB">[COLOR fffa9900]Ballerina Wizard it is inspired by plugin.program.simplewizard and is used to create an install builds and maintenance in  the open source KODI application[/COLOR]</summary>
+		<description lang="en_GB">[COLOR mediumspringgreen]Ballerina Wizard[/COLOR]</description>
+		<disclaimer lang="en_GB">[COLOR mediumspringgreen]This Addon contains no content[/COLOR]</disclaimer>
+		<language>en</language>
+		<platform>all</platform>
+		<license>GPL-2.0-or-later</license>
+		<forum></forum>
+		<website></website> 
+		<email></email>
+		<source></source>
+		<news></news>
+		<assets>
+				<icon>resources/icon.png</icon>
+				<fanart>resources/fanart.jpg</fanart>
+				<banner></banner>
+				<clearlogo></clearlogo>
+				<screenshot>resources/screenshot-1.jpg</screenshot>
+				<screenshot>resources/screenshot-2.jpg</screenshot>
+			    <screenshot>resources/screenshot-3.jpg</screenshot>
+		</assets>
+	</extension>
+</addon>
