@@ -1,2 +1,2 @@
-# plugin.program.ballerina
+# Ballerina Wizard
 Ballerina Wizard for Kodi
