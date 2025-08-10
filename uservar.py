@@ -1,5 +1,5 @@
 '''#####-----Build File-----#####'''
-buildfile = 'http://CHANGEME'
+buildfile = 'https://archive.org/details/builds_202508/download/builds.xml'
 
 '''#####-----Videos File-----#####'''
 videos_url = 'http://CHANGEME'
