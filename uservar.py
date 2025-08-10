@@ -1,5 +1,5 @@
 '''#####-----Build File-----#####'''
-buildfile = 'https://archive.org/details/builds_202508/download/builds.xml'
+buildfile = 'https://github.com/balleriva/ballerina.wizard/blob/main/resources/texts/builds.xml'
 
 '''#####-----Videos File-----#####'''
 videos_url = 'http://CHANGEME'
