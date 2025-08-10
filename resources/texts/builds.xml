@@ -6,7 +6,7 @@
 <build>    
       <name>Ballerina.skin.Titan.Bingie.Mod-Kodi.21.2.v.1.zip</name>     
       <version>1</version>    
-      <kodi>K21</kodi>     
+      <kodi>K21.2</kodi>     
       <size>296MB</size> 
       <url>https://github.com/balleriva/ballerina.backups/releases/download/v1/Ballerina.skin.Titan.Bingie.Mod-Kodi.21.2.v.1.zip</url>
       <icon>https://github.com/balleriva/ballerina.backups/pictures/screenshot-11.jpg</icon>     
