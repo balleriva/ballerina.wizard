@@ -1,16 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-
 <builds>
-    
+
+
+<build>
+     <name>[COLORff00cc29]---- Ballerina Builds -----[/COLOR]</name>    
+     <kodi>K21</kodi>    
+     <url>http://</url>    
+     <icon>https://github.com/balleriva/ballerina.wizard/blob/main/pictures/screenshot-1.jpg</icon>     
+     <fanart>https://github.com/balleriva/ballerina.wizard/blob/main/pictures/screenshot-1.jpg</fanart>
+     <description>balerina.backups</description>   
+</build>     
      
 <build>    
-      <name>Ballerina.skin.Titan.Bingie.Mod-Kodi.21.2.v.1.zip</name>     
-      <version>1</version>    
-      <kodi>K21.2</kodi>     
+      <name>Ballerina (skin Titan Bingie Mod - KODI 21)</name>     
+      <version>1.0</version>    
+      <kodi>K21</kodi>     
       <size>296MB</size> 
       <url>https://github.com/balleriva/ballerina.backups/releases/download/v1/Ballerina.skin.Titan.Bingie.Mod-Kodi.21.2.v.1.zip</url>
-      <icon>https://github.com/balleriva/ballerina.backups/pictures/screenshot-11.jpg</icon>     
-      <fanart>https://github.com/balleriva/ballerina.backups/pictures/screenshot-11.jpg</fanart>   
+      <icon>https://github.com/balleriva/ballerina.backups/blob/main/pictures/screenshot-11.jpg</icon>     
+      <fanart>https://github.com/balleriva/ballerina.backups/blob/main/pictures/screenshot-11.jpg</fanart>   
       <description>Funziona con la registrazione Trakt e Debrid.</description>  
 </build>   
 
