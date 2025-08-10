@@ -1,5 +1,5 @@
 '''#####-----Build File-----#####'''
-buildfile = 'https://kai.nl.tab.digital/s/eSMo5eENjWD7Emd/download/builds.xml'
+buildfile = 'https://kai.nl.tab.digital/s/4zkGkZWxHe2mWYE/download/builds.xml'
 
 '''#####-----Videos File-----#####'''
 videos_url = 'http://CHANGEME'
