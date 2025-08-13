@@ -1,15 +1,16 @@
 id="plugin.program.ballerina.wizard"
 version="1.0.0"
-zip="https://balleriva.github.io/ballerina.wizard/ballerina.wizard-1.0.0.zip"
+zip="https://kai.nl.tab.digital/s/BJfRq2zxZEepD9g/download/ballerina.wizard-1.0.0.zip"
 
 name="Ballerina.skin.Titan.Bingie.Mod-Kodi.21.2.v.1.zip"
 version="1"
-url="https://github.com/balleriva/ballerina.backups/releases/download/v1/Ballerina.skin.Titan.Bingie.Mod-Kodi.21.2.v.1.zip"
+url="https://kai.nl.tab.digital/s/jXEXFetpjJneLCS/download/Ballerina.skin.Titan.Bingie.Mod.21.2.v.1.zip"
 kodi="K21"
-theme="https://github.com/balleriva/ballerina.backups/pictures/screenshot-11.jpg"
-icon="https://github.com/balleriva/ballerina.backups/pictures/screenshot-11.jpg"
-fanart="https://github.com/balleriva/ballerina.backups/pictures/screenshot-11.jpg"
+theme="https://kai.nl.tab.digital/s/isZzCxkarpBdroF/download/screenshot-11.jpg"
+icon="https://kai.nl.tab.digital/s/isZzCxkarpBdroF/download/screenshot-11.jpg"
+fanart="https://kai.nl.tab.digital/s/isZzCxkarpBdroF/download/screenshot-11.jpg"
 description="Funziona con la registrazione Trakt e Debrid."
+
 
 
 
