@@ -20,13 +20,13 @@
 		<source></source>
 		<news></news>
 		<assets>
-				<icon>resources/icon.png</icon>
-				<fanart>resources/fanart.jpg</fanart>
+				<icon>https://kai.nl.tab.digital/s/aMBon77qsKW6dNz/download/icon.png</icon>
+				<fanart>https://kai.nl.tab.digital/s/HSmrCsYHJCcE68R/download/fanart.jpg</fanart>
 				<banner></banner>
 				<clearlogo></clearlogo>
-				<screenshot>resources/screenshot-1.jpg</screenshot>
-				<screenshot>resources/screenshot-2.jpg</screenshot>
-			    <screenshot>resources/screenshot-3.jpg</screenshot>
+				<screenshot>https://kai.nl.tab.digital/s/TrHZFnFx2QHDboD/download/screenshot-1.jpg</screenshot>
+				<screenshot>https://kai.nl.tab.digital/s/bQye5yiStpAAQ3L/download/screenshot-2.jpg</screenshot>
+			    <screenshot>https://kai.nl.tab.digital/s/4SNSkK4D8AbW3S5/download/screenshot-3.jpg</screenshot>
 		</assets>
 	</extension>
 </addon>
